@@ -19,12 +19,9 @@
   },
  "tree-sitter": [
     {
-      "scope": "text.pug.basic",
+      "scope": "text.html.basic",
       "file-types": [
         "pug"
-      ],
-      "highlights": [
-        "queries/highlights.scm"
       ]
     }
   ]
