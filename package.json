@@ -23,10 +23,9 @@
       "file-types": [
         "pug"
       ],
-      "injection-regex": "pug"
-    },
-    "highlights": [
-      "queries/highlights.scm"
-    ]
+      "highlights": [
+        "queries/highlights.scm"
+      ]
+    }
   ]
 }
