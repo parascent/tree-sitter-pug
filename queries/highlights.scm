@@ -1,3 +1,4 @@
+; Constants
 (tag_name) @tag
 (id) @id
 (class) @class
@@ -7,6 +8,7 @@
 (attribute_value) @string
 (comment) @comment
 
+; Keywords
 "catch" @keyword
 "class" @keyword
 "co_await" @keyword
